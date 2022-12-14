@@ -5,7 +5,7 @@ I'm a freelance FullStack Developer.
 </p>
 
 <p style='text-align: justify'>
-I have experience working with a wide range of technologies, mostly languages such as HTML, CSS, Javascript, PHP, Python and SQL.
+I have experience working with a wide range of technologies, mostly languages such as HTML, CSS, Javascript, PHP and SQL.
 </p>
 
 <p style='text-align: justify'>
