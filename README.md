@@ -1,7 +1,7 @@
 # Hi there!
 
 <p style='text-align: justify'>
-I'm a freelance FullStack Developer.
+I'm a freelance Software Developer.
 </p>
 
 <p style='text-align: justify'>
